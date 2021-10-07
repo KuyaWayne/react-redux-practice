@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-redux-practice/static/css/main.a1fe28e3.chunk.css",
+    "main.js": "/react-redux-practice/static/js/main.17a772d9.chunk.js",
+    "main.js.map": "/react-redux-practice/static/js/main.17a772d9.chunk.js.map",
+    "runtime-main.js": "/react-redux-practice/static/js/runtime-main.1958dbcc.js",
+    "runtime-main.js.map": "/react-redux-practice/static/js/runtime-main.1958dbcc.js.map",
+    "static/css/2.c1256375.chunk.css": "/react-redux-practice/static/css/2.c1256375.chunk.css",
+    "static/js/2.7b7eb92f.chunk.js": "/react-redux-practice/static/js/2.7b7eb92f.chunk.js",
+    "static/js/2.7b7eb92f.chunk.js.map": "/react-redux-practice/static/js/2.7b7eb92f.chunk.js.map",
+    "index.html": "/react-redux-practice/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/react-redux-practice/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.a1fe28e3.chunk.css.map": "/react-redux-practice/static/css/main.a1fe28e3.chunk.css.map",
+    "static/js/2.7b7eb92f.chunk.js.LICENSE.txt": "/react-redux-practice/static/js/2.7b7eb92f.chunk.js.LICENSE.txt",
+    "static/media/sharingan.a17ef601.png": "/react-redux-practice/static/media/sharingan.a17ef601.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1958dbcc.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.7b7eb92f.chunk.js",
+    "static/css/main.a1fe28e3.chunk.css",
+    "static/js/main.17a772d9.chunk.js"
+  ]
+}
